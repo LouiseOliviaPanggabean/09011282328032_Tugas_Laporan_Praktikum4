@@ -3,6 +3,7 @@ NIM : 09011282328032 <BR/>
 KELAS : SK3B 
 
 # LAPORAN PRAKTIKUM 4 PROSES INPUT OUTPUT I/O
+
 ## 1. Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file baru.
 <img src = "https://github.com/user-attachments/assets/666c1525-c0ca-4d4f-a063-305dd2d9bd5d" width = 500/>
 
